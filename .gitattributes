@@ -1,0 +1,8 @@
+# Text file normalization
+# Default behavior
+# Generated on 2026-11-05
+src/**/*.ts linguist-detectable
+docs/**/*.html linguist-vendored
+*.tsx linguist-detectable
+go.sum linguist-generated
+*.png binary
